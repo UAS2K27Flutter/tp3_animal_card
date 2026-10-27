@@ -52,7 +52,6 @@ L’interface met en valeur le chat à travers une image, un titre, une descript
 
 ## 🖼️ Capture d’écran
 
-La capture réelle de l’application sera ajoutée ici.
 
 ![Carte d’information du chat](screenshots/animal.png)
 
